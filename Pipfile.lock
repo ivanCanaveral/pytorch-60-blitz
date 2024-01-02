@@ -222,7 +222,7 @@
             "markers": "python_version < '3.9'",
             "version": "==5.9.0"
         },
-        "ipykernel": {
+        "importlib-resources": {
             "hashes": [
                 "sha256:37acc3254caa8a0dafcddddc8dc863a60ad1b46487b68aee361d9a15bda98112",
                 "sha256:d8969c5b23b0e453a23166da5a669c954db399789293fcb03fec5cb25367e43c"
@@ -230,6 +230,14 @@
             "markers": "python_version >= '3.7'",
             "version": "==6.15.1"
         },
+        "ipykernel": {
+            "hashes": [
+                "sha256:37acc3254caa8a0dafcddddc8dc863a60ad1b46487b68aee361d9a15bda98112",
+                "sha256:d8969c5b23b0e453a23166da5a669c954db399789293fcb03fec5cb25367e43c"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==6.15.1"
+
         "ipython": {
             "hashes": [
                 "sha256:af3bdb46aa292bce5615b1b2ebc76c2080c5f77f54bda2ec72461317273e7cd6",
@@ -839,7 +847,7 @@
             "markers": "python_version >= '3.7'",
             "version": "==0.15.0"
         },
-        "testpath": {
+        "tinycss2": {
             "hashes": [
                 "sha256:2f1b97e6442c02681ebe01bd84f531028a7caea1af3825000f52345c30285e0f",
                 "sha256:8ada9f80a2ac6fb0391aa7cdb1a7d11cfa8429f693eda83f74dde570fe6fa639"
@@ -923,6 +931,14 @@
                 "sha256:b36a1c245f2d304965eb4e0a82848379241dc04b865afcc4aab16748587e1923"
             ],
             "version": "==0.5.1"
+        },
+        "websocket-client": {
+            "hashes": [
+                "sha256:d6b06432f184438d99ac1f456eaf22fe1ade524c3dd16e661142dc54e9cba574",
+                "sha256:d6e8f90ca8e2dd4e8027c4561adeb9456b54044312dba655e7cae652ceb9ae59"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==1.4.2"
         },
         "widgetsnbextension": {
             "hashes": [
